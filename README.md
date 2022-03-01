@@ -5,15 +5,15 @@ Check out the PDF "FINAL_MATH_IA_SUBMITTED" for the full report! The following i
 
 <p align="center">
   <img width="80%" src="img/angles.png" />
-  Defining the angles being investigated.
 </p>
+Defining the angles being investigated.
 
 <p align="center">
   <img width="80%" src="img/graph2.png" />
-  My favourite graph from the exploration for the rate of change the angle between the camera's line of sight and the y-axis. 
 </p>
+My favourite graph from the exploration for the rate of change the angle between the camera's line of sight and the y-axis. 
 
 <p align="center">
-  <img width="80%" src="img/annotation1" />
-  A sketch of the zipline being investigated.
+  <img width="80%" src="img/annotation1.png" />
 </p>
+A sketch of the zipline being investigated.
